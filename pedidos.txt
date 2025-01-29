@@ -1,0 +1,3 @@
+Pedido de João
+Status: PENDENTE
+Total: R$10500.0
